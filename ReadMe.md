@@ -6,10 +6,10 @@
   3) improve skills
  
  Team Members:
-  1)Aisuluu Arstanbaeva,
-  2)Ziedillo Shakirov,
-  3)Tilek Karaev,
-  4)Sarvar Saipov;
+  1. Aisuluu Arstanbaeva
+  2. Ziedillo Shakirov
+  3. Tilek Karaev
+  4. Sarvar Saipov
 
 ATTENTION! In order to make good quality pictures we imported the model created in OpenScad to Blender and took pictures of the SoundBox2.0 there.
 
