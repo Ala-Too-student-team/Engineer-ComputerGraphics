@@ -5,7 +5,7 @@
   2) prepare to play on the piano
   3) improve skills
  
- Team Members:
+ Team Members-
 Aisuluu Arstanbaeva,
 Ziedillo Shakirov,
 Tilek Karaev,
