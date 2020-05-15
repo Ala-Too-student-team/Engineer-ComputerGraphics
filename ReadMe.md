@@ -5,10 +5,10 @@
   2) prepare to play on the piano
   3) improve skills
  Team Members:
-    Aisuluu Arstanbaeva
-    Ziedillo Shakirov
-    Tilek Karaev
-    Sarvar Saipov
+    Aisuluu Arstanbaeva,
+    Ziedillo Shakirov,
+    Tilek Karaev,
+    Sarvar Saipov;
 
 ATTENTION! In order to make good quality pictures we imported the model created in OpenScad to Blender and took pictures of the SoundBox2.0 there.
 
